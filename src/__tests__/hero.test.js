@@ -1,4 +1,4 @@
-import { sortHeroesByHealth } from '../heroes.js';
+import { sortHeroesByHealth } from '../hero.js';
 
 describe('sortHeroesByHealth', () => {
   test('sort heroes by health', () => {
